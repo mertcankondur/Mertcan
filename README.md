@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Mertcan 👋</h1>
+<h1 align="center">Hi there, I'm Mertcan!</h1>
 
 I am currently working as a penetration tester. 
 
